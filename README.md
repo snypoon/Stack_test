@@ -4,7 +4,7 @@
 
 ##  Развернуть проект:
 ```sh
-$ git clone git@github.com:snypoon/iBrush-test.git
+$ git clone git@github.com:snypoon/Stack_test.git
 $ npm install
 ```
 
